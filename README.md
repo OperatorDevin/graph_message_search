@@ -31,4 +31,4 @@ To use this script, follow these steps:
 
 ## License
 
-This script is licensed under the BSD 3-Clause "New" or "Revised" License. See the LICENSE file for more information.
+This script is licensed under the MIT License. See the LICENSE file for more information.
