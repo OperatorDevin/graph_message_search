@@ -13,7 +13,9 @@ Before you can use this script, you must have the following:
   - Application permissions: Mail.Read
   - Delegated permissions: User.Read
 - The application ID and client secret for the Azure AD application
-- The tenant ID for your Azure AD tenant
+  - Multiple client secret's can be assigned to a single application
+  - The same application you obtained the original messageID from can be used
+- The graph.messageID and user mailbox from whence it came
 
 ## Usage
 
